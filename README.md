@@ -31,7 +31,7 @@
 </p>
 <hr>
 <h1>기타 등등...</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjunsea&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wonjunsea&show_icons=true&theme=transparent)
 <h1>참여한 활동들</h1>
 <h3>미래에셋 부산 Tams 4기 글로벌 금융인 양성과정 (팀장,26.01~26.02)</h3>
 <a href="https://www.youtube.com/watch?v=mPBLyVKoVs8"><p>유튜브 영상과제</p></a>
