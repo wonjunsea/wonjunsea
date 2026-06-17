@@ -6,7 +6,7 @@
 <h1>👀저는 이런 사람이에요!</h1>
 <p>I'm Frontend Developer In Korea</p>
 <p>I aim to become a Web Developer</p>
-
+<p>I'm active and love taking on new challenges!</p>
 <h1>🛠️사용가능한 Language와 TOOL</h1>
 
 <h3>Studying and Can use</h3>
@@ -37,11 +37,12 @@
 <h2>참여한 활동들</h2>
 <h3>SKT FLY AI Challenger 9기(참여 예정, 26.06~08) </h3>
 <a href = "https://file.notion.com/f/f/879ebba7-aba8-4bf4-ab23-c507175148e4/b8c7e0a6-1de5-4a2c-8e89-2603c850dd81/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-17_182957-%EB%B3%91%ED%95%A9%EB%90%A8.pdf?table=block&id=38240a4e-8093-80f6-9e96-e9c22c2615ec&spaceId=879ebba7-aba8-4bf4-ab23-c507175148e4&expirationTimestamp=1781740800000&signature=QWplOoqEN39rv3h5WJ08jy-jW6djQM6HLnt1wOGHgnU&downloadName=%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7+2026-06-17+182957-%EB%B3%91%ED%95%A9%EB%90%A8.pdf"></a>참여 예정<p></p></a>
-<h3>미래에셋 부산 Tams 4기 글로벌 금융인 양성과정 (팀장,26.01~26.02)</h3>
+<h3>미래에셋 Tams 부산 4기 글로벌 금융인 양성과정 (팀장,26.01~26.02)</h3>
 <a href="https://www.youtube.com/watch?v=mPBLyVKoVs8"><p>유튜브 영상과제</p></a>
 <h3>Naver Cloud&미래에셋증권 DATA FESTIVAL 공모전 (팀원,25.06~25.08)</h3>
 <a href="https://ai3-client-eight.vercel.app/"><p>감정 분석 점수화 웹사이트</p></a>
-<h3>교내 개발동아리(동아리 팀원,24.06~25.06)</h3>
+<h3>교내 개발 동아리 :(동아리 팀원,24.06~25.09)</h3>
+<h3>탁구 동아리: 핑크퐁 (동아리 팀원,21.03~21.06)</h3>
 
 <h1>🏆Awards and Qualification</h1>
 <h2>교내</h2>
@@ -57,5 +58,5 @@
 <p>ADSP</p>
 
 <h1>📱Contact Me!</h1>
-<a href="mailto:jun040604@naver.com">
+<a href="https://mail.google.com/mail/?view=cm&to=jun040604@naver.com">
   <img src="https://img.shields.io/badge/jun040604@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
