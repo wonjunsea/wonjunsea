@@ -38,7 +38,7 @@
 <h3>미래에셋 부산 Tams 4기 글로벌 금융인 양성과정 (팀장,26.01~26.02)</h3>
 <a href="https://www.youtube.com/watch?v=mPBLyVKoVs8"><p>유튜브 영상과제</p></a>
 <h3>Naver Cloud&미래에셋증권 DATA FESTIVAL 공모전 (팀원,25.06~25.08)</h3>
-<a href=" https://ai3-client-eight.vercel.app/"><p>감정 분석 점수화 웹사이트</p></a>
+<a href="https://ai3-client-eight.vercel.app/"><p>감정 분석 점수화 웹사이트</p></a>
 
 <h1>Contact Me!</h1>
 <a href="mailto:jun040604@naver.com">
