@@ -7,8 +7,8 @@
 <p>I'm Frontend Developer In Korea</p>
 <p>I aim to become a Web Developer</p>
 <p>I'm active and love taking on new challenges!</p>
-<h1>🛠️사용가능한 Language와 TOOL</h1>
 
+<h1>🛠️사용가능한 Language와 TOOL</h1>
 <h3>Studying and Can use</h3>
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white" /> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -41,7 +41,7 @@
 <a href="https://www.youtube.com/watch?v=mPBLyVKoVs8"><p>유튜브 영상과제</p></a>
 <h3>Naver Cloud&미래에셋증권 DATA FESTIVAL 공모전 (팀원,25.06~25.08)</h3>
 <a href="https://ai3-client-eight.vercel.app/"><p>감정 분석 점수화 웹사이트</p></a>
-<h3>교내 개발 동아리 :(동아리 팀원,24.06~25.09)</h3>
+<h3>교내 개발 동아리 : 재터디 (동아리 팀원,24.05~25.09)</h3>
 <h3>탁구 동아리: 핑크퐁 (동아리 팀원,21.03~21.06)</h3>
 
 <h1>🏆Awards and Qualification</h1>
@@ -52,7 +52,8 @@
 <h2>대외활동 수상</h2>
 <h4>미래에셋 Tams 부산 4기</h4>
 <a href = "https://file.notion.com/f/f/879ebba7-aba8-4bf4-ab23-c507175148e4/9b36ce8d-b6ab-46d3-949e-6ea7aa0f353d/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B_Tams_%EC%88%98%EB%A3%8C%EC%A6%9D__%EC%83%81%EC%9E%A5.pdf?table=block&id=36440a4e-8093-80b1-b5c8-e910be4bb343&spaceId=879ebba7-aba8-4bf4-ab23-c507175148e4&expirationTimestamp=1781712000000&signature=67PC1HjqyYzgx0rYultpQeTjHwVWIOW00JwLR0v7uZA&downloadName=%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B+Tams+%EC%88%98%EB%A3%8C%EC%A6%9D+%26+%EC%83%81%EC%9E%A5.pdf"><p>유튜브 영상과제 3위</p></a>
-<a href = "https://file.notion.com/f/f/879ebba7-aba8-4bf4-ab23-c507175148e4/9b36ce8d-b6ab-46d3-949e-6ea7aa0f353d/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B_Tams_%EC%88%98%EB%A3%8C%EC%A6%9D__%EC%83%81%EC%9E%A5.pdf?table=block&id=36440a4e-8093-80b1-b5c8-e910be4bb343&spaceId=879ebba7-aba8-4bf4-ab23-c507175148e4&expirationTimestamp=1781712000000&signature=67PC1HjqyYzgx0rYultpQeTjHwVWIOW00JwLR0v7uZA&downloadName=%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B+Tams+%EC%88%98%EB%A3%8C%EC%A6%9D+%26+%EC%83%81%EC%9E%A5.pdf"><p>세일즈체험 2위</p></a>
+<a href = "https://file.notion.com/f/f/879ebba7-aba8-4bf4-ab23-c507175148e4/9b36ce8d-b6ab-46d3-949e-6ea7aa0f353d/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B_Tams_%EC%88%98%EB%A3%8C%EC%A6%9D__%EC%83%81%EC%9E%A5.pdf?table=block&id=36440a4e-8093-80b1-b5c8-e910be4bb343&spaceId=879ebba7-aba8-4bf4-ab23-c507175148e4&expirationTimestamp=1781712000000&signature=67PC1HjqyYzgx0rYultpQeTjHwVWIOW00JwLR0v7uZA&downloadName=%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B+Tams+%EC%88%98%EB%A3%8C%EC%A6%9D+%26+%EC%83%81%EC%9E%A5.pdf"><p> 세일즈 체험 2위 </p></a>
+
 <h2>자격증</h2>
 <p>정보처리기사</p>
 <p>ADSP</p>
