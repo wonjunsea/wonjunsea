@@ -41,7 +41,7 @@
 <a href="https://www.youtube.com/watch?v=mPBLyVKoVs8"><p>유튜브 영상과제</p></a>
 <h3>Naver Cloud&미래에셋증권 DATA FESTIVAL 공모전 (팀원,25.06~25.08)</h3>
 <a href="https://ai3-client-eight.vercel.app/"><p>감정 분석 점수화 웹사이트</p></a>
-<h3>교내 개발 동아리 : 재터디 (동아리 팀원,24.05~25.09)</h3>
+<h3> DATA LAB (학부 연구원, 24.05~25.09) </h3>
 <h3>탁구 동아리: 핑크퐁 (동아리 팀원,21.03~21.06)</h3>
 
 <h1>🏆Awards and Qualification</h1>
