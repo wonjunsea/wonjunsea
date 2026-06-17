@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </p>
 <hr>
-<h1>기타 등등...</h1>
+<h1>😎기타 등등...</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=wonjunsea&show_icons=true&theme=transparent" />
 <h1>참여한 활동들</h1>
 <h3>미래에셋 부산 Tams 4기 글로벌 금융인 양성과정 (팀장,26.01~26.02)</h3>
@@ -38,6 +38,10 @@
 <h3>Naver Cloud&미래에셋증권 DATA FESTIVAL 공모전 (팀원,25.06~25.08)</h3>
 <a href="https://ai3-client-eight.vercel.app/"><p>감정 분석 점수화 웹사이트</p></a>
 
-<h1>Contact Me!</h1>
+<h1>Awards and Qualification</h1>
+<h3>대외활동</h3>
+<a href = "https://file.notion.com/f/f/879ebba7-aba8-4bf4-ab23-c507175148e4/9b36ce8d-b6ab-46d3-949e-6ea7aa0f353d/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B_Tams_%EC%88%98%EB%A3%8C%EC%A6%9D__%EC%83%81%EC%9E%A5.pdf?table=block&id=36440a4e-8093-80b1-b5c8-e910be4bb343&spaceId=879ebba7-aba8-4bf4-ab23-c507175148e4&expirationTimestamp=1781712000000&signature=67PC1HjqyYzgx0rYultpQeTjHwVWIOW00JwLR0v7uZA&downloadName=%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B+Tams+%EC%88%98%EB%A3%8C%EC%A6%9D+%26+%EC%83%81%EC%9E%A5.pdf"><p>유튜브 영상과제 3위</p></a>
+<a href = "[https://file.notion.com/f/f/879ebba7-aba8-4bf4-ab23-c507175148e4/9b36ce8d-b6ab-46d3-949e-6ea7aa0f353d/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B_Tams_%EC%88%98%EB%A3%8C%EC%A6%9D__%EC%83%81%EC%9E%A5.pdf?table=block&id=36440a4e-8093-80b1-b5c8-e910be4bb343&spaceId=879ebba7-aba8-4bf4-ab23-c507175148e4&expirationTimestamp=1781712000000&signature=67PC1HjqyYzgx0rYultpQeTjHwVWIOW00JwLR0v7uZA&downloadName=%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B+Tams+%EC%88%98%EB%A3%8C%EC%A6%9D+%26+%EC%83%81%EC%9E%A5.pdf](https://file.notion.com/f/f/879ebba7-aba8-4bf4-ab23-c507175148e4/9b36ce8d-b6ab-46d3-949e-6ea7aa0f353d/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B_Tams_%EC%88%98%EB%A3%8C%EC%A6%9D__%EC%83%81%EC%9E%A5.pdf?table=block&id=36440a4e-8093-80b1-b5c8-e910be4bb343&spaceId=879ebba7-aba8-4bf4-ab23-c507175148e4&expirationTimestamp=1781712000000&signature=67PC1HjqyYzgx0rYultpQeTjHwVWIOW00JwLR0v7uZA&downloadName=%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B+Tams+%EC%88%98%EB%A3%8C%EC%A6%9D+%26+%EC%83%81%EC%9E%A5.pdf)"><p>세일즈체험 2위</p></a>
+<h1>📱Contact Me!</h1>
 <a href="mailto:jun040604@naver.com">
   <img src="https://img.shields.io/badge/jun040604@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
