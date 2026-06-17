@@ -6,6 +6,7 @@
 <h1>👀저는 이런 사람이에요!</h1>
 <p>I'm Frontend Developer In Korea</p>
 <p>I aim to become a Web Developer</p>
+
 <h1>🛠️사용가능한 Language와 TOOL</h1>
 
 <h3>Studying and Can use</h3>
@@ -30,21 +31,24 @@
 <img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </p>
 <hr>
+
 <h1>😎기타 등등...</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=wonjunsea&show_icons=true&theme=transparent" />
-<h1>참여한 활동들</h1>
+<h2>참여한 활동들</h2>
+<h3>SKT FLY AI Challenger 9기(참여 예정, 26.06~08) </h3>
+<a href = "https://file.notion.com/f/f/879ebba7-aba8-4bf4-ab23-c507175148e4/b8c7e0a6-1de5-4a2c-8e89-2603c850dd81/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-06-17_182957-%EB%B3%91%ED%95%A9%EB%90%A8.pdf?table=block&id=38240a4e-8093-80f6-9e96-e9c22c2615ec&spaceId=879ebba7-aba8-4bf4-ab23-c507175148e4&expirationTimestamp=1781740800000&signature=QWplOoqEN39rv3h5WJ08jy-jW6djQM6HLnt1wOGHgnU&downloadName=%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7+2026-06-17+182957-%EB%B3%91%ED%95%A9%EB%90%A8.pdf"></a><p></p></a>
 <h3>미래에셋 부산 Tams 4기 글로벌 금융인 양성과정 (팀장,26.01~26.02)</h3>
 <a href="https://www.youtube.com/watch?v=mPBLyVKoVs8"><p>유튜브 영상과제</p></a>
 <h3>Naver Cloud&미래에셋증권 DATA FESTIVAL 공모전 (팀원,25.06~25.08)</h3>
 <a href="https://ai3-client-eight.vercel.app/"><p>감정 분석 점수화 웹사이트</p></a>
 <h3>교내 개발동아리(동아리 팀원,24.06~25.06)</h3>
 
-<h1>Awards and Qualification</h1>
+<h1>🏆Awards and Qualification</h1>
 <h2>교내</h2>
 <p>교내 성적 장학금 (3/4) 2025-1학기</p>
 <p>교내 성적 장학금(전액) 2024-2학기</p>
 
-<h2>대외활동</h2>
+<h2>대외활동 수상</h2>
 <h4>미래에셋 Tams 부산 4기</h4>
 <a href = "https://file.notion.com/f/f/879ebba7-aba8-4bf4-ab23-c507175148e4/9b36ce8d-b6ab-46d3-949e-6ea7aa0f353d/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B_Tams_%EC%88%98%EB%A3%8C%EC%A6%9D__%EC%83%81%EC%9E%A5.pdf?table=block&id=36440a4e-8093-80b1-b5c8-e910be4bb343&spaceId=879ebba7-aba8-4bf4-ab23-c507175148e4&expirationTimestamp=1781712000000&signature=67PC1HjqyYzgx0rYultpQeTjHwVWIOW00JwLR0v7uZA&downloadName=%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B+Tams+%EC%88%98%EB%A3%8C%EC%A6%9D+%26+%EC%83%81%EC%9E%A5.pdf"><p>유튜브 영상과제 3위</p></a>
 <a href = "https://file.notion.com/f/f/879ebba7-aba8-4bf4-ab23-c507175148e4/9b36ce8d-b6ab-46d3-949e-6ea7aa0f353d/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B_Tams_%EC%88%98%EB%A3%8C%EC%A6%9D__%EC%83%81%EC%9E%A5.pdf?table=block&id=36440a4e-8093-80b1-b5c8-e910be4bb343&spaceId=879ebba7-aba8-4bf4-ab23-c507175148e4&expirationTimestamp=1781712000000&signature=67PC1HjqyYzgx0rYultpQeTjHwVWIOW00JwLR0v7uZA&downloadName=%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B+Tams+%EC%88%98%EB%A3%8C%EC%A6%9D+%26+%EC%83%81%EC%9E%A5.pdf"><p>세일즈체험 2위</p></a>
