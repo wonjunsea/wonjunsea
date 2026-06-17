@@ -63,5 +63,7 @@
 <p>ADSP</p>
 
 <h1>📱Contact Me!</h1>
+<a href="https://mail.google.com/mail/?view=cm&to=junsea0406@gmail.com">
+  <img src="https://img.shields.io/badge/junsea0406@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?view=cm&to=jun040604@naver.com">
-  <img src="https://img.shields.io/badge/jun040604@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/jun040604@naver.com-EA4335?style=flat-square&logo=naver&logoColor=white"/></a>
